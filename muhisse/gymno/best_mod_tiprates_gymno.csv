@@ -1,0 +1,3 @@
+"","state","state.00_fn1","state.01_fn1","state.10_fn1","state.11_fn1","turnover_fn1","net.div_fn1","speciation_fn1","extinct.frac_fn1","extinction_fn1","prob_0x_fn1","prob_x0_fn1","state.00_fn2","state.01_fn2","state.10_fn2","state.11_fn2","turnover_fn2","net.div_fn2","speciation_fn2","extinct.frac_fn2","extinction_fn2","prob_0x_fn2","prob_x0_fn2"
+"1","direct",0,1,0,0,0.0302699188549041,0.0302699187301221,0.0302699187925131,2.06115362243856e-09,6.23909527701093e-11,1,0,0,0,0,0,0,0,0,0,0,0,0
+"2","biphasic",0,0,0,1,0.0331275221899272,0.0329533963067666,0.0330404592483469,0.00263504029789345,8.70629415803005e-05,0,0,0,0,0,0,0,0,0,0,0,0,0
