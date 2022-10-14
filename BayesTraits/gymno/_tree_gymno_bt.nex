@@ -1,0 +1,139 @@
+#NEXUS
+[R-package PHYTOOLS, Mon Feb  8 16:54:20 2021]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 63;
+	TAXLABELS
+		Boulengerula_boulengeri
+		Boulengerula_changamwensis
+		Boulengerula_fischeri
+		Boulengerula_niedeni
+		Boulengerula_taitana
+		Boulengerula_uluguruensis
+		Caecilia_gracilis
+		Caecilia_tentaculata
+		Caecilia_volcani
+		Chikila_fulleri
+		Chthonerpeton_indistinctum
+		Crotaphatrema_lamottei
+		Crotaphatrema_tchabalmbaboensis
+		Dermophis_mexicanus
+		Dermophis_oaxacae
+		Dermophis_parviceps
+		Epicrionops_marmoratus
+		Gegeneophis_carnosus
+		Gegeneophis_danieli
+		Gegeneophis_goaensis
+		Gegeneophis_krishni
+		Gegeneophis_madhavai
+		Gegeneophis_mhadeiensis
+		Gegeneophis_ramaswamii
+		Gegeneophis_seshachari
+		Geotrypetes_seraphini
+		Grandisonia_alternans
+		Grandisonia_larvata
+		Grandisonia_sechellensis
+		Gymnopis_multiplicata
+		Herpele_squalostoma
+		Hypogeophis_brevis
+		Hypogeophis_rostratus
+		Ichthyophis_asplenius
+		Ichthyophis_bannanicus
+		Ichthyophis_biangularis
+		Ichthyophis_bombayensis
+		Ichthyophis_glutinosus
+		Ichthyophis_larutensis
+		Ichthyophis_longicephalus
+		Ichthyophis_orthoplicatus
+		Ichthyophis_tricolor
+		Indotyphlus_battersbyi
+		Indotyphlus_maharashtraensis
+		Luetkenotyphlus_brasiliensis
+		Microcaecilia_dermatophaga
+		Microcaecilia_unicolor
+		Oscaecilia_ochrocephala
+		Praslinia_cooperi
+		Rhinatrema_bivittatum
+		Rhinatrema_nigrum
+		Rhinatrema_shiv
+		Schistometopum_gregorii
+		Schistometopum_thomense
+		Scolecomorphus_uluguruensis
+		Scolecomorphus_vittatus
+		Siphonops_annulatus
+		Siphonops_hardyi
+		Siphonops_paulensis
+		Typhlonectes_compressicauda
+		Typhlonectes_natans
+		Uraeotyphlus_gansi
+		Uraeotyphlus_narayani
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Boulengerula_boulengeri,
+		2	Boulengerula_changamwensis,
+		3	Boulengerula_fischeri,
+		4	Boulengerula_niedeni,
+		5	Boulengerula_taitana,
+		6	Boulengerula_uluguruensis,
+		7	Caecilia_gracilis,
+		8	Caecilia_tentaculata,
+		9	Caecilia_volcani,
+		10	Chikila_fulleri,
+		11	Chthonerpeton_indistinctum,
+		12	Crotaphatrema_lamottei,
+		13	Crotaphatrema_tchabalmbaboensis,
+		14	Dermophis_mexicanus,
+		15	Dermophis_oaxacae,
+		16	Dermophis_parviceps,
+		17	Epicrionops_marmoratus,
+		18	Gegeneophis_carnosus,
+		19	Gegeneophis_danieli,
+		20	Gegeneophis_goaensis,
+		21	Gegeneophis_krishni,
+		22	Gegeneophis_madhavai,
+		23	Gegeneophis_mhadeiensis,
+		24	Gegeneophis_ramaswamii,
+		25	Gegeneophis_seshachari,
+		26	Geotrypetes_seraphini,
+		27	Grandisonia_alternans,
+		28	Grandisonia_larvata,
+		29	Grandisonia_sechellensis,
+		30	Gymnopis_multiplicata,
+		31	Herpele_squalostoma,
+		32	Hypogeophis_brevis,
+		33	Hypogeophis_rostratus,
+		34	Ichthyophis_asplenius,
+		35	Ichthyophis_bannanicus,
+		36	Ichthyophis_biangularis,
+		37	Ichthyophis_bombayensis,
+		38	Ichthyophis_glutinosus,
+		39	Ichthyophis_larutensis,
+		40	Ichthyophis_longicephalus,
+		41	Ichthyophis_orthoplicatus,
+		42	Ichthyophis_tricolor,
+		43	Indotyphlus_battersbyi,
+		44	Indotyphlus_maharashtraensis,
+		45	Luetkenotyphlus_brasiliensis,
+		46	Microcaecilia_dermatophaga,
+		47	Microcaecilia_unicolor,
+		48	Oscaecilia_ochrocephala,
+		49	Praslinia_cooperi,
+		50	Rhinatrema_bivittatum,
+		51	Rhinatrema_nigrum,
+		52	Rhinatrema_shiv,
+		53	Schistometopum_gregorii,
+		54	Schistometopum_thomense,
+		55	Scolecomorphus_uluguruensis,
+		56	Scolecomorphus_vittatus,
+		57	Siphonops_annulatus,
+		58	Siphonops_hardyi,
+		59	Siphonops_paulensis,
+		60	Typhlonectes_compressicauda,
+		61	Typhlonectes_natans,
+		62	Uraeotyphlus_gansi,
+		63	Uraeotyphlus_narayani
+	;
+	TREE * UNTITLED = [&R] ((((((((((((18:33.5939612,25:33.5939612):0.1875069995,21:33.7814682):1.161846804,24:34.94331501):4.647638238,(((19:12.64234361,20:12.64234361):5.766764472,23:18.40910808):9.681921401,22:28.09102948):11.49992376):23.79116556,(43:21.07811261,44:21.07811261):42.30400619):15.12889404,(((((27:1.04506273,28:1.04506273):15.6608714,29:16.70593413):8.47116599,32:25.17710012):6.525539958,33:31.70264008):14.71711051,49:46.41975059):32.09126226):18.3819071,((((((15:22.40441705,14:22.40441705):2.449687593,16:24.85410464):11.12890324,30:35.98300788):37.26938777,(54:34.74072267,53:34.74072267):38.51167299):10.52818908,26:83.78058473):5.669362904,((((57:7.106762765,59:7.106762765):14.1148305,58:21.22159327):38.90248141,45:60.12407468):17.05998526,(47:30.81229034,46:30.81229034):46.37176961):12.26588769):7.442972311):14.9474371,((((8:34.56672605,7:34.56672605):3.725922686,9:38.29264874):26.9527663,48:65.24541504):8.110802375,((61:24.45042043,60:24.45042043):39.28479339,11:63.73521382):9.621003593):38.48413963):17.64833272,((((((4:13.13272566,5:13.13272566):16.62575604,(6:12.88370019,2:12.88370019):16.87478151):46.6547229,3:76.4132046):3.675218805,1:80.0884234):27.69202644,31:107.7804498):0.1631457065,10:107.9435956):21.54509422):5.073256085,((13:4.652724596,12:4.652724596):121.9983894,(56:41.01071941,55:41.01071941):85.64039462):7.910831824):8.749969311,(((((39:37.60862608,36:37.60862608):1.029545545,(35:29.24664727,34:29.24664727):9.391524355):7.443061302,(40:16.48155468,42:16.48155468):29.59967825):9.092917813,(41:10.41647827,38:10.41647827):44.75767247):18.88392297,((62:40.11081092,63:40.11081092):26.87609283,37:66.98690375):7.071169952):69.25384146):7.150930975,(((50:25.49220271,52:25.49220271):44.99558522,51:70.48778793):23.22391917,17:93.7117071):56.75113904);
+END;

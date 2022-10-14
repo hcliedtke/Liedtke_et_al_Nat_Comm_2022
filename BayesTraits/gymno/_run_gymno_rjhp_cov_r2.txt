@@ -1,0 +1,12 @@
+1
+2
+RJHP exp 0 100
+#Stones 1000 5000
+LogFile gymno_rjhp_cov_r2
+Cores 10
+ScaleTrees 0.001
+Covarion
+sample 5000
+BurnIn 50000
+iterations 100050000
+Run
